@@ -1,5 +1,7 @@
 # About the Project
-This is a simple project to begin getting familiar using ReactJS. It was created for educational purposes.
+This is a simple project to begin getting familiar using ReactJS. It was created for educational purposes. 
+
+The application is a simple textbox and a button. When text is entered and 'Submit' is clicked, the entered text will appear under the box.
 
 # Getting Started with Create React App
 
