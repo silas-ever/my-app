@@ -1,3 +1,6 @@
+# About the Project
+This is a simple project to begin getting familiar using ReactJS. It was created for educational purposes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
